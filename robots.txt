@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yilegei.mobile.ant.design/sitemap.xml
